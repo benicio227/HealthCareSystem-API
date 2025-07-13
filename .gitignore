@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+appsettings.Development.json
+
+# Database
+*.db
+*.sqlite
+
+# IDE settings
+.vs/
